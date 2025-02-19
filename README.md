@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently Studying **Computer Science**
 
-- 🌱 I’m currently learning **C++ Programming**
+- 🌱 I’m currently learning **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
