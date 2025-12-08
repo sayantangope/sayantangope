@@ -43,9 +43,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sayantangope&show_icons=true&locale=en" alt="sayantangope GitHub stats" />
-</p>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantangope" alt="sayantangope GitHub streak" />
