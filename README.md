@@ -47,7 +47,9 @@
 ---
 
 
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayantangope" alt="sayantangope GitHub streak" />
+  <img 
+    src="https://streak-stats.demolab.com?user=sayantangope" 
+    alt="sayantangope GitHub streak" 
+  />
 </p>
