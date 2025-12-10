@@ -14,7 +14,7 @@
   </a>
 </p>
 
----
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -47,9 +47,8 @@
 ---
 
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sayantangope" 
-    alt="sayantangope GitHub streak" 
-  />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sayantangope&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sayantangope&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sayantangope&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
