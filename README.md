@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Tech Enthusiast from India</h3>
 
 
-- 🔭 I’m currently studying **Computer Science Engineering**
+- 👨‍💻 I’m currently studying **Computer Science Engineering**
 - 🌱 I’m currently learning **React**
-
+ - ⚡ Fun fact I break my system more than I break my code… and I still love Linux 😄
 ---
 
 <h3 align="left">Connect with me:</h3>
