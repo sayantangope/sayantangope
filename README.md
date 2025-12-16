@@ -4,7 +4,8 @@
 
 - 👨‍💻 I’m currently studying **Computer Science Engineering**
 - 🌱 I’m currently learning **React**
- - ⚡ Fun fact I break my system more than I break my code… and I still love Linux 😄
+- 🚀 All in on hackathons 💻 building, breaking, and shipping ideas nonstop.
+- ⚡ Fun fact I break my system more than I break my code… and I still love Linux 😄
 ---
 
 <h3 align="left">Connect with me:</h3>
