@@ -19,8 +19,22 @@
   </a>
 </p>
 
+---
+ 
+<h3 align="left">Connect with me:</h3>
+
+### 🧠 [Algebraic Fun](https://github.com/sayantangope/algebraic-fun)  
+**Algebraic Fun is a web-based application that helps users explore and visualize number patterns generated from algebraic expressions. It makes learning sequences and expressions more interactive and intuitive.**
+
+### 🥡 [Jeevan Aahar](https://github.com/sayantangope/jeevan-aahar.git)  
+**Jeevan Aahar is a food donation platform that connects donors with people in need, enabling seamless food sharing through donations and requests.**
+
+###  🎨  [Etch a sketch ](https://github.com/sayantangope/sketching-tool.git)  
+**Etch A Sketch is a drawing tool where anyone can sketch basic lines using keyboard controls.**
 
 
+
+---
 
 
 <h3 align="left">Languages and Tools:</h3>
