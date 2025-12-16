@@ -21,7 +21,7 @@
 
 ---
  
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Projects:</h3>
 
 ### 🧠 [Algebraic Fun](https://github.com/sayantangope/algebraic-fun)  
 **Algebraic Fun is a web-based application that helps users explore and visualize number patterns generated from algebraic expressions. It makes learning sequences and expressions more interactive and intuitive.**
