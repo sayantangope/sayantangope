@@ -27,8 +27,8 @@ I break my system more than I break my code… and I still love Linux
 ### 🥡 [Jeevan Aahar](https://github.com/sayantangope/Jeevan_Aahar.git)  
 **Jeevan Aahar is a food donation platform that connects donors with people in need, enabling seamless food sharing through donations and requests.**
 
-###  🎨  [Etch a sketch ](https://github.com/sayantangope/sketching-tool.git)  
-**Etch A Sketch is a drawing tool where anyone can sketch basic lines using keyboard controls.**
+###  🎨  [Netflix-Gpt](https://github.com/sayantangope/netflix-gpt.git)  
+**Netflix-inspired streaming UI supercharged with AI-powered movie recommendations**
 
 
 
