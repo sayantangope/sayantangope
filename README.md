@@ -21,7 +21,7 @@ I break my system more than I break my code… and I still love Linux
  
 <h3 align="left">Projects:</h3>
 
-### 🧠 [Algebraic Fun](https://github.com/sayantangope/algebraic-fun)  
+### 👥 [DevMatchs](https://github.com/sayantangope/DevMatchs.git)  
 **Algebraic Fun is a web-based application that helps users explore and visualize number patterns generated from algebraic expressions. It makes learning sequences and expressions more interactive and intuitive.**
 
 ### 🥡 [Jeevan Aahar](https://github.com/sayantangope/Jeevan_Aahar.git)  
